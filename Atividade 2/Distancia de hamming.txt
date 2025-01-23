@@ -1,0 +1,10 @@
+Neste exercício, utilizou-se um site onde calcula-se a distância de hamming entre 2 strings correspondentes,
+também levou-se em consideração que as letras "n" e os carácters "-" são diferenças entre as 2 fitas, assim então
+aumentando a distância de hamming entre as 2 strings, visto que é um nuclotídeo incerto e poderia ser qualquer um dos 4 possíveis.
+
+Site utilizado:https://calculator.academy/hamming-distance-calculator/
+
+distância de hamming:
+
+A-B: 686
+A-C: 631
